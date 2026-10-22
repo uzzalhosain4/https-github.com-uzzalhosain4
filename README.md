@@ -16,7 +16,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Golang, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/uzzalhosain4)
+- 👨‍💻 All of my projects are available at [https://github.com/uzzalhosain4](https://github.com/uzzalhosain4)
 
 - 📝 I regularly write articles on [https://medium.com/@codiiz](https://medium.com/@codiiz)
 
@@ -93,7 +93,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=uzzalhosain4&custom_title=uzzal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Uzzal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=uzzalhosain4&custom_title=uzzal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
@@ -103,7 +103,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/tutul181" target="_blank">
+<a href="https://twitter.com/uzzalhosain4" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 <a href="https://www.linkedin.com/in/uzzalhosain4/" target="_blank">
